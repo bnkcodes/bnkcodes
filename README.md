@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**brunownk/brunownk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't really know how u got here, but I'll try to show a little about myself for you.
 
-Here are some ideas to get you started:
+### Public information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Bruno Neckel. I currently live in Foz do Iguaçu, Brazil and I'm support coordinator at [Flexge](https://flexge.com/).
+
+In my free time, I study programming and English. I want to become a fullstack web developer, but I have a long way to go.
+
+### Detailed information
+
+* **Name**: Bruno Neckel
+* **Age**: 21
+* **Living in**: Foz do Iguaçu, Brazil
+* **Stack**: Javascript - Node.js - React - React Native - PHP - Laravel
