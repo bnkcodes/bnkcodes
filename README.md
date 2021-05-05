@@ -13,4 +13,4 @@ In my free time, I study programming and English. I want to become a fullstack w
 * **Name**: Bruno Neckel
 * **Age**: 21
 * **Living in**: Foz do Iguaçu, Brazil
-* **Stack**: Typescript - React - React Native - Next.js
+* **Stack**: Javascript - Typescript - React
