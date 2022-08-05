@@ -11,4 +11,4 @@ My name is Bruno Neckel. I currently live in Foz do Iguaçu - BR and I work as F
 * **Name**: Bruno Neckel
 * **Age**: 22
 * **Living in**: Foz do Iguaçu, Brazil
-* **Stack**: Javascript - Typescript - React - React Native - Node.js
+* **Stack**: Javascript - Typescript - React - React Native - Node.js - MongoDB
