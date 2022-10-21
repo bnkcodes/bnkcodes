@@ -1,3 +1,9 @@
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/bruno-neckel-7a2891172">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
 ## Hello there
 
 I don't really know how u got here, but I'll try to show a little about myself for you.
