@@ -17,5 +17,5 @@ My name is Bruno Neckel, and I’m based in Foz do Iguaçu, Brazil. With 5 years
 * **Name**: Bruno Neckel
 * **Age**: 25
 * **Location**: Foz do Iguaçu, Brazil
-* **Experience**: 5 years as a Javascript Software Developer
-* **Tech Stack**: Javascript - Typescript - React - React Native - Next.js - Node.js - Nest.js - MongoDB - PostgreSQL - GraphQL - Microservices
+* **Experience**: 5 years as a JavaScript Software Developer
+* **Tech Stack**: JavaScript, TypeScript, Node.js, Nest.js, React, Next.js, React Native,  MongoDB, PostgreSQL, GraphQL, Microservices
