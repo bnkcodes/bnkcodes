@@ -6,17 +6,16 @@
 
 ## Hello there
 
-I don't really know how u got here, but I will try to show a little bit about myself for you.
+I’m not entirely sure how you ended up here, but let me share a little about myself.
 
-## Public information
+## About Me
 
-My name is Bruno Neckel. I currently live in Foz do Iguaçu, Brazil and I'm majoring in Information Systems at [FIAP](https://www.fiap.com.br/online/graduacao/bacharelado/sistemas-de-informacao/) and working as Senior Software Developer Freelance.
+My name is Bruno Neckel, and I’m based in Foz do Iguaçu, Brazil. With 5 years of experience, I specialize in JavaScript and work as a Senior Software Developer, currently taking on freelance projects for companies. I’m pursuing a degree in Information Systems at [FIAP](https://www.fiap.com.br/online/graduacao/bacharelado/sistemas-de-informacao/), and in my free time, I focus on expanding my skills by studying English and taking courses related to my field.
 
-On my free time, I usually work as freelancer and study English, in addition to the courses that my college or company requires.
-
-## Detailed information
+## Details
 
 * **Name**: Bruno Neckel
 * **Age**: 25
-* **Living in**: Foz do Iguaçu, Brazil
-* **Stack**: Javascript - Typescript - React - React Native - Next.js - Node.js - Nest.js - MongoDB - PostgreSQL - GraphQL - Microservices
+* **Location**: Foz do Iguaçu, Brazil
+* **Experience**: 5 years as a Javascript Software Developer
+* **Tech Stack**: Javascript - Typescript - React - React Native - Next.js - Node.js - Nest.js - MongoDB - PostgreSQL - GraphQL - Microservices
