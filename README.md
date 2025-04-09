@@ -3,14 +3,17 @@
 </div>
 
 <div align="center">
-    <a target='_blank' href="https://www.linkedin.com/in/brunownk">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/brunownk" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.workana.com/freelancer/i49a902556761261e27956765a7c687a">
-        <img src="https://img.shields.io/badge/Workana-00C389?style=for-the-badge&logo=freelancer&logoColor=white">
+    <a href="https://www.workana.com/freelancer/i49a902556761261e27956765a7c687a" target="_blank">
+        <img src="https://img.shields.io/badge/Workana-%2300C389?style=for-the-badge&logo=freelancer&logoColor=white">
     </a>
     <a href="mailto:neckel.bw@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/brunownk" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </div>
 
