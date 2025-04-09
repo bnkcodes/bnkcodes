@@ -1,5 +1,5 @@
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Engineer;JavaScript+%7C+TypeScript+Specialist;5+Years+of+Experience" alt="Header" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;TypeScript+•+React+•+Next.js+•+Node.js+%E2%9A%99%EF%B8%8F;Clean+Code+Advocate+•+5%2B+Years+Experience+%F0%9F%9A%80" alt="Typing animation" />
 </div>
 
 <div align="center">
