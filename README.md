@@ -22,20 +22,6 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ---
 
-<!-- LANG: PT-BR -->
-<details>
-  <summary>🇧🇷 Clique aqui para ler em Português</summary>
-
-### 👨‍💻 Sobre Mim
-
-Sou Bruno Neckel, **Engenheiro Full Stack Sênior** de Foz do Iguaçu, Brasil. Com mais de 5 anos de experiência, sou especializado em construir aplicações escaláveis utilizando JavaScript/TypeScript moderno em toda a stack.
-
-Atualmente curso **Sistemas de Informação** na [FIAP](https://www.fiap.com.br), ao mesmo tempo que aprofundo meus conhecimentos em Go e tecnologias nativas da nuvem, como orquestração de containers com Kubernetes e filas de mensagens para processamento assíncrono. Sou entusiasta de código limpo e desenvolvimento orientado à performance.
-
-</details>
-
----
-
 ## 🛠 Tech Stack
 
 **Core Expertise:**  
@@ -45,8 +31,8 @@ Atualmente curso **Sistemas de Informação** na [FIAP](https://www.fiap.com.br)
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 **Frameworks:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -59,10 +45,10 @@ Atualmente curso **Sistemas de Informação** na [FIAP](https://www.fiap.com.br)
 
 **Currently Exploring:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
