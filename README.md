@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;TypeScript+•+React+•+Next.js+•+Node.js+%E2%9A%99%EF%B8%8F;Clean%20Code%20Advocate+•+5%2B+Years+Experience+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior%20Full%20Stack%20Engineer;TypeScript%20•%20React%20•%20Next.js%20•%20Node.js;Clean%20Code%20Advocate%20•%205%2B%20Years%20Experience" alt="Typing animation" />
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brunownk" target="_blank">
