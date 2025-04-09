@@ -17,7 +17,7 @@
 
 I'm Bruno Neckel, a **Senior Full Stack Engineer** from Foz do Iguaçu, Brazil. With 5+ years of experience, I specialize in building scalable applications using modern JavaScript/TypeScript across the entire stack.
 
-Currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.com.br) while expanding my expertise in Go and cloud-native technologies. Advocate for clean code and performance-driven development.
+Currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.com.br) while expanding my expertise in Go and cloud-native technologies such as container orchestration with Kubernetes and message queues for asynchronous processing. Advocate for clean code and performance-driven development.
 
 ---
 
@@ -30,7 +30,8 @@ Currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 **Frameworks:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -43,6 +44,10 @@ Currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.
 
 **Currently Exploring:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -52,3 +57,4 @@ Currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&layout=compact&theme=react&hide_border=true"/>
 </div>
+
