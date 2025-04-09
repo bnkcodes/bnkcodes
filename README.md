@@ -12,9 +12,6 @@
     <a href="mailto:neckel.bw@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://github.com/brunownk" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
-    </a>
 </div>
 
 ---
