@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Engineer;JavaScript+%7C+TypeScript+Specialist;5+Years+of+Experience" alt="Header" />
 </div>
 
-<div align="center">
+<div id="badges" align="center" style="gap: 16px; display: flex;">
     <a href="https://www.linkedin.com/in/brunownk" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
