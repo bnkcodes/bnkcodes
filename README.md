@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-    <a target='_blank' href="[https://www.linkedin.com/in/brunownk](https://www.linkedin.com/in/brunownk)">
+    <a target='_blank' href="https://www.linkedin.com/in/brunownk">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="[https://www.workana.com/freelancer/i49a902556761261e27956765a7c687a](https://www.workana.com/freelancer/f49a902556761261e27956765a7c687a)">
+    <a target='_blank' href="https://www.workana.com/freelancer/i49a902556761261e27956765a7c687a">
         <img src="https://img.shields.io/badge/Workana-00C389?style=for-the-badge&logo=freelancer&logoColor=white">
     </a>
     <a href="mailto:neckel.bw@gmail.com">
