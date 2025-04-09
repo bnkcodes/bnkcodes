@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=22D3EE&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Engineer;JavaScript+%7C+TypeScript+Professional;Node.js+%7C+React+Specialist;5%2B+Years+of+Experience" alt="Header Animation">
+  <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Engineer;JavaScript+%7C+TypeScript+Professional;5%2B+Years+of+Experience" alt="Typing Animation">
 </div>
 
 <div id="badges" align="center" style="gap: 16px; display: flex;">
