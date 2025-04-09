@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-    <a target='_blank' href="https://www.linkedin.com/in/brunownk">
+    <a target='_blank' href="[https://www.linkedin.com/in/brunownk](https://www.linkedin.com/in/brunownk)">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.workana.com/freelancer/i49a902556761261e27956765a7c687a">
+    <a target='_blank' href="[https://www.workana.com/freelancer/i49a902556761261e27956765a7c687a](https://www.workana.com/freelancer/f49a902556761261e27956765a7c687a)">
         <img src="https://img.shields.io/badge/Workana-00C389?style=for-the-badge&logo=freelancer&logoColor=white">
     </a>
     <a href="mailto:neckel.bw@gmail.com">
@@ -16,11 +16,11 @@
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
 
-I'm Bruno Neckel, a **Senior Full Stack Engineer** from Foz do Iguaçu, Brazil. With 5 years of professional experience, I specialize in building robust applications using modern JavaScript/TypeScript technologies across the stack.
+I'm Bruno Neckel, a **Senior Full Stack Engineer** from Foz do Iguaçu, Brazil. With 5+ years of experience, I specialize in building scalable applications using modern JavaScript/TypeScript across the entire stack.
 
-Currently pursuing my degree in **Information Systems at [FIAP](https://www.fiap.com.br)** while expanding my skills with **Go** and cloud technologies. Passionate about clean architecture and performance optimization.
+Currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.com.br) while expanding my expertise in Go and cloud-native technologies. Advocate for clean code and performance-driven development.
 
 ---
 
@@ -31,8 +31,8 @@ Currently pursuing my degree in **Information Systems at [FIAP](https://www.fiap
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Currently Learning:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 **Frameworks:**  
@@ -44,11 +44,14 @@ Currently pursuing my degree in **Information Systems at [FIAP](https://www.fiap
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
+**Currently Exploring:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunownk&theme=react&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&layout=compact&theme=react&hide_border=true"/>
 </div>
