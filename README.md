@@ -55,9 +55,11 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=brunownk&theme=github-dark-dimmed&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
+<div>
+  <img src="https://streak-stats.demolab.com?user=brunownk&theme=github-dark-dimmed&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" 
+
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&layout=compact&theme=react&hide_border=true" />
+  </div>
 </div>
-
