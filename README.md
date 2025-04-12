@@ -1,4 +1,4 @@
-<div align="center">
+se<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior%20Software%20Engineer;TypeScript%20•%20React%20•%20Next.js%20•%20Node.js;Clean%20Code%20Advocate%20•%205%2B%20Years%20Experience" alt="Typing animation" />
 </div>
 
@@ -55,8 +55,6 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&layout=compact&theme=react&hide_border=true" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
 
