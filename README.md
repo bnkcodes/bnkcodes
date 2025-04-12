@@ -15,7 +15,7 @@ se<div align="center">
 ---
 
 <!-- LANG: EN -->
-# 👨‍💻 About Me
+# 🧑🏻‍💻 About Me
 
 I'm Bruno Neckel, a **Senior Full Stack Engineer** from Foz do Iguaçu, Brazil. With 5+ years of experience, I specialize in building scalable applications using modern JavaScript/TypeScript across the entire stack.
 
