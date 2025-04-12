@@ -58,4 +58,5 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&layout=compact&theme=react&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=brunownk&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=brunownk&theme=github-dark-dimmed&hide_border=true&card_width=400&card_height=165&hide_total_contributions=true" alt="GitHub Streak" />
+</div>  
