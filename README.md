@@ -1,4 +1,4 @@
-se<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior%20Software%20Engineer;TypeScript%20•%20React%20•%20Next.js%20•%20Node.js;Clean%20Code%20Advocate%20•%205%2B%20Years%20Experience" alt="Typing animation" />
 </div>
 
