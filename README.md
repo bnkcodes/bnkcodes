@@ -64,17 +64,23 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; width: 100%; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact&langs_count=6&size_weight=0.4" 
-    style="height: 135px; width: 31%;"
-  />
-  
-  <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&card_width=250&card_height=135" 
-    style="height: 135px; width: 31%;"
-  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues&line_height=18&custom_title=My%20Stats" 
-    style="height: 135px; width: 31%;"
-  />
+## 📊 GitHub Metrics
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; width: 100%; align-items: flex-start; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px;">
+  <div style="flex: 1; min-width: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=dark&hide_border=true&layout=compact&langs_count=6&size_weight=0.4&exclude_repo=github-readme-stats" 
+         style="height: 140px; width: 100%; object-fit: contain;">
+  </div>
+
+  <div style="flex: 1; min-width: 180px;">
+    <img src="https://streak-stats.demolay.com?user=brunownk&theme=dark&hide_border=true&card_width=240&card_height=140" 
+         style="height: 140px; width: 100%; object-fit: contain;">
+  </div>
+
+  <div style="flex: 1; min-width: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues&line_height=18&custom_title=My%20Stats" 
+         style="height: 140px; width: 100%; object-fit: contain;">
+  </div>
+
 </div>
 
