@@ -64,13 +64,20 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-
-<img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true" 
-  alt="GitHub Streak" 
-  style="max-width: 100%; margin-bottom: 10px;" 
-/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
-<div />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+  <img 
+    src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&border_width=0" 
+    alt="GitHub Streak" 
+    style="height: 180px; object-fit: contain;" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" 
+    style="height: 180px;" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" 
+    style="height: 180px;" 
+  />
+</div>
