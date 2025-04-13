@@ -70,7 +70,7 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
   style="height: 150px; object-fit: contain;" 
 />
 
-<div align="center" style="display">
+<div align="center" style="display:flex">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" 
     style="height: 150px;" 
