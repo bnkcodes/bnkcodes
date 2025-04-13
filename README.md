@@ -64,23 +64,17 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; width: 100%;">
-  <div style="flex: 1 1 30%; min-width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact&langs_count=6" 
-      style="width: 100%; height: auto; max-height: 160px;"
-    />
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; width: 100%; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact&langs_count=6&size_weight=0.4" 
+    style="height: 135px; width: 31%;"
+  />
   
-  <div style="flex: 1 1 30%; min-width: 200px;">
-    <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&card_width=250" 
-      style="width: 100%; height: auto; max-height: 160px;"
-    />
-  </div>
+  <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&card_width=250&card_height=135" 
+    style="height: 135px; width: 31%;"
+  />
   
-  <div style="flex: 1 1 30%; min-width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues&line_height=22&custom_title=Bruno%20Neckel%27s%20Stats" 
-      style="width: 100%; height: auto; max-height: 160px;"
-    />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues&line_height=18&custom_title=My%20Stats" 
+    style="height: 135px; width: 31%;"
+  />
 </div>
 
