@@ -70,7 +70,7 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
     style="height: 180px; object-fit: contain;" 
   />
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" 
     style="height: 180px;" 
