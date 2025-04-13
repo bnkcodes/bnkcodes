@@ -64,12 +64,13 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" />
 
 <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true" 
   alt="GitHub Streak" 
   style="max-width: 100%; margin-bottom: 10px;" 
 />
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
+<div />
