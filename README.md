@@ -64,20 +64,20 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-  <img 
-    src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&border_width=0" 
-    alt="GitHub Streak" 
-    style="height: 180px; object-fit: contain;" 
-  />
+<img 
+  src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&border_width=0" 
+  alt="GitHub Streak" 
+  style="height: 165em; object-fit: contain;" 
+/>
 
 <div align="center" style="display">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" 
-    style="height: 180px;" 
+    style="height: 165em;" 
   />
   
   <img 
     src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" 
-    style="height: 180px;" 
+    style="height: 165em;" 
   />
 </div>
