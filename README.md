@@ -64,7 +64,7 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<table align="center">
+<table>
   <tr>
     <td>
       <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&border_width=0" alt="GitHub Streak" />
@@ -77,6 +77,3 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
     </td>
   </tr>
 </table>
-
-
-
