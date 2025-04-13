@@ -64,7 +64,7 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 
 ## 📊 GitHub Metrics
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
 </p>
