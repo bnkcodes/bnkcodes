@@ -70,14 +70,14 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
   style="height: 150px; object-fit: contain;" 
 />
 
-<div style="display: flex; gap: 8px; align-items: flex-start;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" 
-    style="height: 150px;" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" 
-    style="height: 159px;" 
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
+    </td>
+  </tr>
+</table>
+
