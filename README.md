@@ -65,22 +65,16 @@ I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.f
 ## 📊 GitHub Metrics
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; align-items: flex-start;">
-  <div style="flex: 1; max-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.3" 
       style="height: 165px; width: 33%; object-fit: contain;"
     />
-  </div>
   
-  <div style="flex: 1; max-width: 300px;">
-    <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&card_width=300" 
-      style="height: 165px; width: 33%; object-fit: contain;"
-    />
-  </div>
-  
-  <div style="flex: 1; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues&line_height=20" 
-      style="height: 165px; width: 33%; object-fit: contain;"
-    />
-  </div>
+  <img src="https://streak-stats.demolab.com?user=brunownk&theme=react&hide_border=true&hide_total_contributions=true&card_width=300" 
+    style="height: 165px; width: 33%; object-fit: contain;"
+  />
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues&line_height=20" 
+    style="height: 165px; width: 33%; object-fit: contain;"
+  />
 </div>
 
