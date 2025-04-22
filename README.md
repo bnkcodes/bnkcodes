@@ -1,73 +1,91 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior%20Software%20Engineer;TypeScript%20•%20React%20•%20Next.js%20•%20Node.js;Clean%20Code%20Advocate%20•%205%2B%20Years%20Experience" alt="Typing animation" />
+### Hello there 👋 Bruno here! 🚀 
+
+<div style="display: flex; gap: 0.3em; margin-bottom: 1em;">
+  <img src="https://img.shields.io/badge/-FullStack-blue?style=flat&color=grey"/>
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&color=grey"/>
+  <img src="https://img.shields.io/badge/-Go-blue?style=flat&color=grey"/>
+  <img src="https://img.shields.io/badge/-Cloud-blue?style=flat&color=grey"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="250px" align="right" style="margin-left: 1em;">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/brunownk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:neckel.bw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<br>
+
+- 🚀 Senior Software Engineer
+- 🎓 Information Systems student at [FIAP](https://www.fiap.com.br)
+- 💻 Passionate about clean code and performance-driven development
+- 📫 How to reach me: <img src="https://img.icons8.com/color/20/000000/linkedin.png" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/brunownk) • <img src="https://img.icons8.com/color/18/000000/gmail.png" style="vertical-align: text-bottom;" /> [Gmail](mailto:neckel.bw@gmail.com)
+
+<br>
+
+<details>
+<summary style="margin-bottom: 0.5em;">💼 Tech Stack</summary>
+
+<div style="display: flex; flex-direction: column; gap: 0.5em;">
+  <div>
+    <strong>Languages</strong>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </p>
+  </div>
+
+  <div>
+    <strong>Frontend</strong>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+    </p>
+  </div>
+
+  <div>
+    <strong>Backend</strong>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <strong>Cloud & Infrastructure</strong>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <strong>Databases</strong>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <strong>Message Brokers</strong>
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+    </p>
+  </div>
 </div>
+</details>
 
----
-
-<!-- LANG: EN -->
-# 🧑🏻‍💻 About Me
-
-I'm Bruno Neckel, a **Senior Full Stack Engineer** from Foz do Iguaçu, Brazil. With 5+ years of experience, I specialize in building scalable applications using modern JavaScript/TypeScript across the entire stack.
-
-I'm currently pursuing my **Information Systems** degree at [FIAP](https://www.fiap.com.br) while deepening my knowledge of Go and cloud-native technologies like Kubernetes and message queues for asynchronous processing. I’m passionate about clean code and performance-driven development.
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=9FEAF9)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Messaging & Queues:**  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-
-**Currently Exploring:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
----
-
-## 📊 GitHub Metrics
+<details>
+<summary style="margin-bottom: 0.5em;">📊 GitHub Stats</summary>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=brunownk&show_icons=true&theme=react&hide_border=true&count_private=true&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=react&hide_border=true&layout=compact" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=brunownk&theme=material-palenight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&layout=compact" />
 </p>
+</details>
