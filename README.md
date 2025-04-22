@@ -1,7 +1,7 @@
 ## Hello there 👋 Bruno here! 🚀
 
 <div style="display: flex; gap: 0.5em; margin-bottom: 1em;">
-  <img src="https://img.shields.io/badge/-FullStack-blue?style=flat&color=grey"/>
+  <img src="https://img.shields.io/badge/-Full%20Stack-blue?style=flat&color=grey"/>
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&color=grey"/>
   <img src="https://img.shields.io/badge/-Go-blue?style=flat&color=grey"/>
   <img src="https://img.shields.io/badge/-Cloud-blue?style=flat&color=grey"/>
