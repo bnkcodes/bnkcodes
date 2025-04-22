@@ -12,7 +12,7 @@
 <br>
 
 - 🚀 Senior Software Engineer
-- 🎓 Information Systems student at [FIAP](https://www.fiap.com.br)
+- 🎓 Information Systems student at [FIAP](https://www.fiap.com.br/online/graduacao/bacharelado/sistemas-de-informacao/)
 - 💻 Passionate about clean code and performance-driven development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/brunownk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:neckel.bw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 
