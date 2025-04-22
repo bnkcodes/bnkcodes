@@ -84,7 +84,7 @@
 <summary style="margin-bottom: 0.5em;">📊 GitHub Stats</summary>
 
 <p>
-  <img height="150" src="https://streak-stats.demolab.com/?user=brunownk&theme=material-palenight&hide_border=true&border_radius=10" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brunownk&theme=material-palenight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
 </p>
