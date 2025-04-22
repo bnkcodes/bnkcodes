@@ -1,4 +1,4 @@
-### Hello there 👋 Bruno here! 🚀 
+## Hello there 👋 Bruno here! 🚀 
 
 <div style="display: flex; gap: 0.3em; margin-bottom: 1em;">
   <img src="https://img.shields.io/badge/-FullStack-blue?style=flat&color=grey"/>
@@ -7,14 +7,14 @@
   <img src="https://img.shields.io/badge/-Cloud-blue?style=flat&color=grey"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="250px" align="right" style="margin-left: 1em;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="280px" align="right" style="margin-left: 1em;">
 
 <br>
 
 - 🚀 Senior Software Engineer
 - 🎓 Information Systems student at [FIAP](https://www.fiap.com.br)
 - 💻 Passionate about clean code and performance-driven development
-- 📫 How to reach me: <img src="https://img.icons8.com/color/20/000000/linkedin.png" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/brunownk) • <img src="https://img.icons8.com/color/18/000000/gmail.png" style="vertical-align: text-bottom;" /> [Gmail](mailto:neckel.bw@gmail.com)
+- 📫 How to reach me: <img src="https://img.icons8.com/color/20/000000/linkedin.png" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/brunownk) &nbsp;•&nbsp; <img src="https://img.icons8.com/color/18/000000/gmail.png" style="vertical-align: text-bottom;" /> [Gmail](mailto:neckel.bw@gmail.com)
 
 <br>
 
@@ -84,8 +84,8 @@
 <summary style="margin-bottom: 0.5em;">📊 GitHub Stats</summary>
 
 <p>
-  <img height="150" src="https://streak-stats.demolab.com/?user=brunownk&theme=material-palenight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&layout=compact" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=brunownk&theme=material-palenight&hide_border=true&border_radius=10" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
 </p>
 </details>
