@@ -1,4 +1,4 @@
-# Hello there 👋 Bruno here! 🚀
+## Hello there 👋 Bruno here! 🚀
 
 <div style="display: flex; gap: 0.5em; margin-bottom: 1em;">
   <img src="https://img.shields.io/badge/-FullStack-blue?style=flat&color=grey"/>
