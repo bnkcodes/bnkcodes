@@ -82,7 +82,6 @@
 </div>
 </details>
 
-<br>
 
 <details>
 <summary>📊 GitHub Stats</summary>
