@@ -1,13 +1,13 @@
 ## Hello there 👋 Bruno here! 🚀 
 
-<div style="display: flex; gap: 0.3em; margin-bottom: 1em;">
+<div style="display: flex; gap: 0.5em; margin-bottom: 1em;">
   <img src="https://img.shields.io/badge/-FullStack-blue?style=flat&color=grey"/>
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&color=grey"/>
   <img src="https://img.shields.io/badge/-Go-blue?style=flat&color=grey"/>
   <img src="https://img.shields.io/badge/-Cloud-blue?style=flat&color=grey"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="280px" align="right" style="margin-left: 1em;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="260px" align="right" style="margin-left: 1em;">
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 0.5em;">
   <div>
-    <strong>Languages</strong>
+    <strong style="margin-top: 1em;">Languages</strong>
     <p style="margin: 0;">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -83,8 +83,8 @@
 <details>
 <summary style="margin-bottom: 0.5em;">📊 GitHub Stats</summary>
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
+<p style="margin-top: 1em;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
 </p>
 </details>
