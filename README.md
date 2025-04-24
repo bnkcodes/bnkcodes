@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Cloud-blue?style=flat&color=grey"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="260px" align="right" style="margin-left: 1em;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" style="margin-bottom: 10px;">
 
 <br>
 
