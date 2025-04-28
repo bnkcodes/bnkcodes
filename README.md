@@ -20,7 +20,9 @@
 
 <details>
 <summary>💼 Tech Stack</summary>
-  
+
+<br>
+
 ##### Languages
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-444C56?style=flat&logo=typescript&logoColor=white" /></a>
@@ -40,6 +42,9 @@
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-444C56?style=flat&logo=nodedotjs&logoColor=white" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-444C56?style=flat&logo=express&logoColor=white" /></a>
   <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-444C56?style=flat&logo=nestjs&logoColor=white" /></a>
+  <a href="https://gin-gonic.com/" target="_blank"><img src="https://img.shields.io/badge/Gin-444C56?style=flat&logo=go&logoColor=white" /></a>
+  <a href="https://echo.labstack.com/" target="_blank"><img src="https://img.shields.io/badge/Echo-444C56?style=flat&logo=go&logoColor=white" /></a>
+  <a href="https://gofiber.io/" target="_blank"><img src="https://img.shields.io/badge/Fiber-444C56?style=flat&logo=go&logoColor=white" /></a>
 </div>
 
 ##### Cloud & Infrastructure
