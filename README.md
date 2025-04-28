@@ -26,7 +26,7 @@
 <div style="display: flex; flex-direction: column; gap: 0.5em;">
   <div>
     <strong>Languages 📝</strong>
-    <hr style="margin: 4px 0; border: none; border-top: 1px solid #e1e4e8; width: 60px;">
+    <div style="height: 0.5em;"></div>
     <p style="margin: 0;">
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-444C56?style=flat&logo=typescript&logoColor=white" /></a>
       <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-444C56?style=flat&logo=go&logoColor=white" /></a>
@@ -35,7 +35,7 @@
 
   <div>
     <strong>Frontend 🎨</strong>
-    <hr style="margin: 4px 0; border: none; border-top: 1px solid #e1e4e8; width: 60px;">
+    <div style="height: 0.5em;"></div>
     <p style="margin: 0;">
       <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-444C56?style=flat&logo=react&logoColor=white" /></a>
       <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-444C56?style=flat&logo=next.js&logoColor=white" /></a>
@@ -46,7 +46,7 @@
 
   <div>
     <strong>Backend 🛠️</strong>
-    <hr style="margin: 4px 0; border: none; border-top: 1px solid #e1e4e8; width: 60px;">
+    <div style="height: 0.5em;"></div>
     <p style="margin: 0;">
       <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-444C56?style=flat&logo=nodedotjs&logoColor=white" /></a>
       <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-444C56?style=flat&logo=express&logoColor=white" /></a>
@@ -56,7 +56,7 @@
 
   <div>
     <strong>Cloud & Infrastructure ☁️</strong>
-    <hr style="margin: 4px 0; border: none; border-top: 1px solid #e1e4e8; width: 60px;">
+    <div style="height: 0.5em;"></div>
     <p style="margin: 0;">
       <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-444C56?style=flat&logo=amazon-aws&logoColor=white" /></a>
       <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-444C56?style=flat&logo=docker&logoColor=white" /></a>
@@ -68,7 +68,7 @@
 
   <div>
     <strong>Databases 🗄️</strong>
-    <hr style="margin: 4px 0; border: none; border-top: 1px solid #e1e4e8; width: 60px;">
+    <div style="height: 0.5em;"></div>
     <p style="margin: 0;">
       <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-444C56?style=flat&logo=mongodb&logoColor=white" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-444C56?style=flat&logo=postgresql&logoColor=white" /></a>
@@ -78,7 +78,7 @@
 
   <div>
     <strong>Message Brokers 📬</strong>
-    <hr style="margin: 4px 0; border: none; border-top: 1px solid #e1e4e8; width: 60px;">
+    <div style="height: 0.5em;"></div>
     <p style="margin: 0;">
       <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-444C56?style=flat&logo=rabbitmq&logoColor=white" /></a>
       <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-444C56?style=flat&logo=apachekafka&logoColor=white" /></a>
