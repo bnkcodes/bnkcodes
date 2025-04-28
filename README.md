@@ -27,6 +27,7 @@
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-444C56?style=flat&logo=go&logoColor=white" /></a>
 </div>
 
+<br>
 ##### Frontend
 <div>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-444C56?style=flat&logo=react&logoColor=white" /></a>
@@ -35,6 +36,7 @@
   <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-444C56?style=flat&logo=electron&logoColor=white" /></a>
 </div>
 
+<br>
 ##### Backend
 <div>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-444C56?style=flat&logo=nodedotjs&logoColor=white" /></a>
@@ -45,6 +47,7 @@
   <a href="https://gofiber.io/" target="_blank"><img src="https://img.shields.io/badge/Fiber-444C56?style=flat&logo=go&logoColor=white" /></a>
 </div>
 
+<br>
 ##### Cloud & Infrastructure
 <div>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-444C56?style=flat&logo=amazon-aws&logoColor=white" /></a>
@@ -54,6 +57,7 @@
   <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-444C56?style=flat&logo=nginx&logoColor=white" /></a>
 </div>
 
+<br>
 ##### Databases
 <div>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-444C56?style=flat&logo=mongodb&logoColor=white" /></a>
@@ -61,11 +65,13 @@
   <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-444C56?style=flat&logo=redis&logoColor=white" /></a>
 </div>
 
+<br>
 ##### Message Brokers
 <div>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-444C56?style=flat&logo=rabbitmq&logoColor=white" /></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-444C56?style=flat&logo=apachekafka&logoColor=white" /></a>
 </div>
+
 </details>
 
 
