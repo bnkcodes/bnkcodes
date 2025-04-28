@@ -9,12 +9,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" style="margin-bottom: 10px;">
 
-<br />
+<br>
 - 🚀 Senior Software Engineer
 - 🎓 Information Systems student at [FIAP](https://www.fiap.com.br/online/graduacao/bacharelado/sistemas-de-informacao/)
 - 💻 Passionate about clean code and performance-driven development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunownk)
-<br/>
+<br>
 
 <details>
   <summary>💼 Tech Stack</summary>
@@ -25,7 +25,6 @@
     <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-444C56?style=flat&logo=go&logoColor=white" /></a>
   </div>
 
-  <br />
   ##### Frontend
   <div>
     <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-444C56?style=flat&logo=react&logoColor=white" /></a>
@@ -34,7 +33,6 @@
     <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-444C56?style=flat&logo=electron&logoColor=white" /></a>
   </div>
 
-  <br />
   ##### Backend
   <div>
     <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-444C56?style=flat&logo=nodedotjs&logoColor=white" /></a>
@@ -45,7 +43,6 @@
     <a href="https://gofiber.io/" target="_blank"><img src="https://img.shields.io/badge/Fiber-444C56?style=flat&logo=go&logoColor=white" /></a>
   </div>
 
-  <br />
   ##### Cloud & Infrastructure
   <div>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-444C56?style=flat&logo=amazon-aws&logoColor=white" /></a>
@@ -55,7 +52,6 @@
     <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-444C56?style=flat&logo=nginx&logoColor=white" /></a>
   </div>
 
-  <br />
   ##### Databases
   <div>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-444C56?style=flat&logo=mongodb&logoColor=white" /></a>
@@ -63,7 +59,6 @@
     <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-444C56?style=flat&logo=redis&logoColor=white" /></a>
   </div>
   
-  <br />
   ##### Message Brokers
   <div>
     <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-444C56?style=flat&logo=rabbitmq&logoColor=white" /></a>
@@ -81,5 +76,4 @@
       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
       <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=brunownk&theme=material-palenight&hide_border=true&border_radius=10" />
     </div>
-  <br>
 </details>
