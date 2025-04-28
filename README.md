@@ -22,14 +22,13 @@
 <summary>💼 Tech Stack</summary>
 
 
-
-##### Languages
+<strong>Languages</strong>
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-444C56?style=flat&logo=typescript&logoColor=white" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-444C56?style=flat&logo=go&logoColor=white" /></a>
 </div>
 
-##### Frontend
+<strong>Frontend</strong>
 <div>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-444C56?style=flat&logo=react&logoColor=white" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-444C56?style=flat&logo=next.js&logoColor=white" /></a>
@@ -37,7 +36,7 @@
   <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-444C56?style=flat&logo=electron&logoColor=white" /></a>
 </div>
 
-##### Backend
+<strong>Backend</strong>
 <div>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-444C56?style=flat&logo=nodedotjs&logoColor=white" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-444C56?style=flat&logo=express&logoColor=white" /></a>
@@ -47,7 +46,7 @@
   <a href="https://gofiber.io/" target="_blank"><img src="https://img.shields.io/badge/Fiber-444C56?style=flat&logo=go&logoColor=white" /></a>
 </div>
 
-##### Cloud & Infrastructure
+<strong>Cloud & Infrastructure</strong>
 <div>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-444C56?style=flat&logo=amazon-aws&logoColor=white" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-444C56?style=flat&logo=docker&logoColor=white" /></a>
@@ -56,14 +55,14 @@
   <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-444C56?style=flat&logo=nginx&logoColor=white" /></a>
 </div>
 
-##### Databases
+<strong>Databases</strong>
 <div>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-444C56?style=flat&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-444C56?style=flat&logo=postgresql&logoColor=white" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-444C56?style=flat&logo=redis&logoColor=white" /></a>
 </div>
 
-##### Message Brokers
+<strong>Message Brokers</strong>
 <div>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-444C56?style=flat&logo=rabbitmq&logoColor=white" /></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-444C56?style=flat&logo=apachekafka&logoColor=white" /></a>
