@@ -20,9 +20,7 @@
 
 <details>
 <summary>💼 Tech Stack</summary>
-
-<br>
-
+  
 ##### Languages
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-444C56?style=flat&logo=typescript&logoColor=white" /></a>
