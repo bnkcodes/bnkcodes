@@ -14,7 +14,7 @@
 - 🚀 Senior Software Engineer
 - 🎓 Information Systems student at [FIAP](https://www.fiap.com.br/online/graduacao/bacharelado/sistemas-de-informacao/)
 - 💻 Passionate about clean code and performance-driven development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunownk)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bnkcodes)
 
 <br>
 
@@ -92,9 +92,9 @@
 <span> <span/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=brunownk&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunownk&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=brunownk&theme=material-palenight&hide_border=true&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bnkcodes&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnkcodes&theme=material-palenight&hide_border=true&layout=compact&border_radius=10" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bnkcodes&theme=material-palenight&hide_border=true&border_radius=10" />
 </div>
 
 <br>
